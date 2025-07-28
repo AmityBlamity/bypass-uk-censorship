@@ -9,7 +9,7 @@ Under the OSA, sites like Wikipedia now face
 # Steps to Take
 - [Sign the petititon to Repeal the Online Safety Act](https://petition.parliament.uk/petitions/722903) - (UK Citizens only).
 
-# All-Purpose Tools
+# All-Purpose Tools
 
 # Discord
 ## Death Stranding Method
