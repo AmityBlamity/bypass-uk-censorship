@@ -1,8 +1,15 @@
 # Bypass UK Censorship
+
+This repository is designed as a resource to provide information on Online Safety Act, the harm it can cause, and means of bypassing content restrictions.
+
 # Information
 ## What is the Online Safety Act?
 
 Under the OSA, sites like Wikipedia now face
+
+## Consequences of the Online Safety Act
+
+Already, we're seeing horrifying 
 
 ## Why you shouldn't verify your identity
 
