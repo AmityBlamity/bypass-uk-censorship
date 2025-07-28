@@ -22,7 +22,8 @@ Already, we're seeing horrifying
 
 A VPN will allow you bypass most, if not all, of the blocks placed on UK citizens. 
 
-- [Mullvad VPN](https://mullvad.net/en) - No logs, no account needed, and you can even pay by cash.
+- [Mullvad VPN](https://mullvad.net/en) - No logs, no account needed, and you can even pay by cash. Very affordable.
+- [IVPN](https://www.ivpn.net/) - No logs, no account needed, and alternate payment options. Allows for subscription times as short as a week.
 
 ## Email
 
